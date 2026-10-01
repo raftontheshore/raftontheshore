@@ -9,7 +9,7 @@
 ![SQL Server](https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Skills:** Python / PHP / Laravel / Java / T-SQL / Git / GitHub
+**Skills:** Python / PHP / Laravel / Java / T-SQL / Git
 - 🔭 Cursando 3er año de Lic. en Sistemas de Información
 - 🌱 Aprendiendo APIs REST e integración de LLMs
 - 📫 Contacto: waldemariturrieta.dev@gmail.com
