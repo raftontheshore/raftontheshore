@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**raftontheshore/raftontheshore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola 👋, soy Waldemar
 
-Here are some ideas to get you started:
+**Estudiante de Lic. en Sistemas de Información · UNNE · Corrientes, Argentina**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/T--SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Skills:** Python / PHP / Laravel / Java / T-SQL / Git / GitHub
+- 🔭 Cursando 3er año de Lic. en Sistemas de Información
+- 🌱 Aprendiendo APIs REST e integración de LLMs
+- 📫 Contacto: waldemariturrieta.dev@gmail.com
